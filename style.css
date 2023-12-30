@@ -1,0 +1,44 @@
+body {
+    background-image: url(./londres\ background.jpg);
+    background-size: cover;
+    margin: 0;
+   
+}
+header {
+    padding: 0px 30px;
+    color: darkgoldenrod;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: black;
+    
+}
+li{
+    display: inline;
+    margin-left: 5px;
+    
+   list-style: none;
+}
+button {
+    display:block;
+    margin: 0 auto; 
+    cursor: pointer;
+    border-radius: 5px;
+}
+div {
+    margin: 100px 500px;
+    padding: 50px 60px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+
+    color: darkgoldenrod;
+    background-color: black;
+    text-align: center;
+}
+input {
+    
+    display: block;
+   justify-content: center;
+    margin: 5px auto;
+}
